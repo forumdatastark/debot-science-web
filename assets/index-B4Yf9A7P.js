@@ -68237,32 +68237,30 @@ var tee = Lk((ho, mo) => {
                           "Buy $R3D"
                         ),
                       ]),
-                      t[14] ||
-                        (t[14] = I(
-                          "div",
-                          {
-                            style: {
-                              "margin-top": "1rem",
-                              height: "26.7rem",
-                              width: "100%",
-                              background: "#000",
-                              "border-radius": "0.8rem",
-                            },
-                          },
-                          [
-                            I("iframe", {
-                              height: "100%",
-                              width: "100%",
-                              id: "geckoterminal-embed",
-                              title: "GeckoTerminal Embed",
-                              src: "https://www.geckoterminal.com/solana/pools/6XYSM6RnghKTqGJhy66tR1TF3fJZK3hG3ryJgYbTZV5j?embed=1&info=0&swaps=0&grayscale=0&light_chart=0",
-                              frameborder: "0",
-                              allow: "clipboard-write",
-                              allowfullscreen: "",
-                            }),
-                          ],
-                          -1
-                        )),
+                      t[14] || (t[14] = I()),
+                      // "div",
+                      // {
+                      //   style: {
+                      //     "margin-top": "1rem",
+                      //     height: "26.7rem",
+                      //     width: "100%",
+                      //     background: "#000",
+                      //     "border-radius": "0.8rem",
+                      //   },
+                      // },
+                      // [
+                      //   I("iframe", {
+                      //     height: "100%",
+                      //     width: "100%",
+                      //     id: "geckoterminal-embed",
+                      //     title: "GeckoTerminal Embed",
+                      //     src: "https://www.geckoterminal.com/solana/pools/6XYSM6RnghKTqGJhy66tR1TF3fJZK3hG3ryJgYbTZV5j?embed=1&info=0&swaps=0&grayscale=0&light_chart=0",
+                      //     frameborder: "0",
+                      //     allow: "clipboard-write",
+                      //     allowfullscreen: "",
+                      //   }),
+                      // ],
+                      // -1
                     ]),
                   ]),
                 ]),
@@ -68605,32 +68603,30 @@ var tee = Lk((ho, mo) => {
                       "Buy $R3D"
                     ),
                   ]),
-                  t[19] ||
-                    (t[19] = I(
-                      "div",
-                      {
-                        style: {
-                          "margin-top": "1.7rem",
-                          height: "51.42rem",
-                          width: "100%",
-                          background: "#000",
-                          "border-radius": "2rem",
-                        },
-                      },
-                      [
-                        I("iframe", {
-                          height: "100%",
-                          width: "100%",
-                          id: "geckoterminal-embed",
-                          title: "GeckoTerminal Embed",
-                          src: "https://www.geckoterminal.com/solana/pools/6XYSM6RnghKTqGJhy66tR1TF3fJZK3hG3ryJgYbTZV5j?embed=1&info=0&swaps=0&grayscale=0&light_chart=0",
-                          frameborder: "0",
-                          allow: "clipboard-write",
-                          allowfullscreen: "",
-                        }),
-                      ],
-                      -1
-                    )),
+                  t[19] || (t[19] = I()),
+                  // "div",
+                  // {
+                  //   style: {
+                  //     "margin-top": "1.7rem",
+                  //     height: "51.42rem",
+                  //     width: "100%",
+                  //     background: "#000",
+                  //     "border-radius": "2rem",
+                  //   },
+                  // },
+                  // [
+                  //   I("iframe", {
+                  //     height: "100%",
+                  //     width: "100%",
+                  //     id: "geckoterminal-embed",
+                  //     title: "GeckoTerminal Embed",
+                  //     src: "https://www.geckoterminal.com/solana/pools/6XYSM6RnghKTqGJhy66tR1TF3fJZK3hG3ryJgYbTZV5j?embed=1&info=0&swaps=0&grayscale=0&light_chart=0",
+                  //     frameborder: "0",
+                  //     allow: "clipboard-write",
+                  //     allowfullscreen: "",
+                  //   }),
+                  // ],
+                  // -1
                 ]),
               ]),
               t[23] ||
@@ -69801,31 +69797,31 @@ var tee = Lk((ho, mo) => {
                         ),
                       ]),
                       t[14] ||
-                        (t[14] = I(
-                          "div",
-                          {
-                            style: {
-                              "margin-top": "1rem",
-                              height: "26.7rem",
-                              width: "100%",
-                              background: "#000",
-                              "border-radius": "0.8rem",
-                            },
-                          },
-                          [
-                            I("iframe", {
-                              height: "100%",
-                              width: "100%",
-                              id: "geckoterminal-embed",
-                              title: "GeckoTerminal Embed",
-                              src: "https://www.geckoterminal.com/solana/pools/6XYSM6RnghKTqGJhy66tR1TF3fJZK3hG3ryJgYbTZV5j?embed=1&info=0&swaps=0&grayscale=0&light_chart=0",
-                              frameborder: "0",
-                              allow: "clipboard-write",
-                              allowfullscreen: "",
-                            }),
-                          ],
-                          -1
-                        )),
+                        (t[14] =
+                          I()),
+                          // "div",
+                          // {
+                          //   style: {
+                          //     "margin-top": "1rem",
+                          //     height: "26.7rem",
+                          //     width: "100%",
+                          //     background: "#000",
+                          //     "border-radius": "0.8rem",
+                          //   },
+                          // },
+                          // [
+                          //   I("iframe", {
+                          //     height: "100%",
+                          //     width: "100%",
+                          //     id: "geckoterminal-embed",
+                          //     title: "GeckoTerminal Embed",
+                          //     src: "https://www.geckoterminal.com/solana/pools/6XYSM6RnghKTqGJhy66tR1TF3fJZK3hG3ryJgYbTZV5j?embed=1&info=0&swaps=0&grayscale=0&light_chart=0",
+                          //     frameborder: "0",
+                          //     allow: "clipboard-write",
+                          //     allowfullscreen: "",
+                          //   }),
+                          // ],
+                          // -1
                     ]),
                   ]),
                 ]),
@@ -70061,31 +70057,31 @@ var tee = Lk((ho, mo) => {
                     ),
                   ]),
                   t[23] ||
-                    (t[23] = I(
-                      "div",
-                      {
-                        style: {
-                          "margin-top": "1.7rem",
-                          height: "51.42rem",
-                          width: "100%",
-                          background: "#000",
-                          "border-radius": "2rem",
-                        },
-                      },
-                      [
-                        I("iframe", {
-                          height: "100%",
-                          width: "100%",
-                          id: "geckoterminal-embed",
-                          title: "GeckoTerminal Embed",
-                          src: "https://www.geckoterminal.com/solana/pools/6XYSM6RnghKTqGJhy66tR1TF3fJZK3hG3ryJgYbTZV5j?embed=1&info=0&swaps=0&grayscale=0&light_chart=0",
-                          frameborder: "0",
-                          allow: "clipboard-write",
-                          allowfullscreen: "",
-                        }),
-                      ],
-                      -1
-                    )),
+                    (t[23] =
+                      I()),
+                      // "div",
+                      // {
+                      //   style: {
+                      //     "margin-top": "1.7rem",
+                      //     height: "51.42rem",
+                      //     width: "100%",
+                      //     background: "#000",
+                      //     "border-radius": "2rem",
+                      //   },
+                      // },
+                      // [
+                      //   I("iframe", {
+                      //     height: "100%",
+                      //     width: "100%",
+                      //     id: "geckoterminal-embed",
+                      //     title: "GeckoTerminal Embed",
+                      //     src: "https://www.geckoterminal.com/solana/pools/6XYSM6RnghKTqGJhy66tR1TF3fJZK3hG3ryJgYbTZV5j?embed=1&info=0&swaps=0&grayscale=0&light_chart=0",
+                      //     frameborder: "0",
+                      //     allow: "clipboard-write",
+                      //     allowfullscreen: "",
+                      //   }),
+                      // ],
+                      // -1
                 ]),
               ]),
               t[27] ||
