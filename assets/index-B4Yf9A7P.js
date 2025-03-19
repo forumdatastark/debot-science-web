@@ -67165,7 +67165,7 @@ var tee = Lk((ho, mo) => {
                       style: {
                         width: "7.9rem",
                         height: "7.9rem",
-                        "background-image": "url('/img/logo.png')",
+                        "background-image": "url('/img/favicon.png')",
                       },
                     }),
                     I(
@@ -67570,7 +67570,7 @@ var tee = Lk((ho, mo) => {
                       style: {
                         width: "3.3rem",
                         height: "3.3rem",
-                        "background-image": "url('/img/logo.png')",
+                        "background-image": "url('/img/favicon.png')",
                       },
                     }),
                     I(
@@ -68194,269 +68194,269 @@ var tee = Lk((ho, mo) => {
                   ],
                   -1
                 )),
-              I("div", cQ, [
-                I("div", dQ, [
-                  I("div", fQ, [
-                    I("div", pQ, [
-                      I("div", hQ, [
-                        t[13] ||
-                          (t[13] = I(
-                            "div",
-                            {
-                              class: "font-liner2",
-                              style: {
-                                "font-size": "1.8rem",
-                                "line-height": "2.2rem",
-                              },
-                            },
-                            "Price",
-                            -1
-                          )),
-                        I(
-                          "div",
-                          {
-                            onClick:
-                              t[7] ||
-                              (t[7] = (...a) =>
-                                l.openTrade && l.openTrade(...a)),
-                            style: {
-                              "font-size": "1.6rem",
-                              color: "#461E00",
-                              "border-radius": "6px",
-                              background:
-                                "var(--Linear, linear-gradient(318deg, #B06D42 28.77%, #FFC2AA 93.47%))",
-                              "box-shadow":
-                                "1px 1px 4px 0px #FFF inset, 0px 0px 13px 0px #DEAB7B",
-                              width: "12.6rem",
-                              height: "3.6rem",
-                              "line-height": "3.6rem",
-                              "text-align": "center",
-                              cursor: "pointer",
-                            },
-                          },
-                          "Buy $R3D"
-                        ),
-                      ]),
-                      t[14] || (t[14] = I()),
-                      // "div",
-                      // {
-                      //   style: {
-                      //     "margin-top": "1rem",
-                      //     height: "26.7rem",
-                      //     width: "100%",
-                      //     background: "#000",
-                      //     "border-radius": "0.8rem",
-                      //   },
-                      // },
-                      // [
-                      //   I("iframe", {
-                      //     height: "100%",
-                      //     width: "100%",
-                      //     id: "geckoterminal-embed",
-                      //     title: "GeckoTerminal Embed",
-                      //     src: "https://www.geckoterminal.com/solana/pools/6XYSM6RnghKTqGJhy66tR1TF3fJZK3hG3ryJgYbTZV5j?embed=1&info=0&swaps=0&grayscale=0&light_chart=0",
-                      //     frameborder: "0",
-                      //     allow: "clipboard-write",
-                      //     allowfullscreen: "",
-                      //   }),
-                      // ],
-                      // -1
-                    ]),
-                  ]),
-                ]),
-                t[15] ||
-                  (t[15] = I(
-                    "div",
-                    {
-                      style: {
-                        width: "63.8rem",
-                        height: "100%",
-                        "border-radius": "0.8rem",
-                        border: "0.0859rem solid rgba(5,3,2,0.5)",
-                        padding: "0.5rem",
-                      },
-                    },
-                    [
-                      I(
-                        "div",
-                        {
-                          class: "bgimage100",
-                          style: {
-                            width: "100%",
-                            height: "100%",
-                            "background-image": "url('/img/border3.png')",
-                            padding: "0.2rem",
-                          },
-                        },
-                        [
-                          I(
-                            "div",
-                            {
-                              style: {
-                                width: "100%",
-                                height: "100%",
-                                "border-radius": "0.8rem",
-                                background:
-                                  "linear-gradient(98deg, rgba(126, 74, 57, 0.50) 0.56%, rgba(41, 14, 10, 0.50) 96.3%)",
-                                "backdrop-filter": "blur(0.75rem)",
-                                padding: "1.5rem",
-                              },
-                            },
-                            [
-                              I(
-                                "div",
-                                {
-                                  class: "font-liner2",
-                                  style: {
-                                    "font-size": "1.8rem",
-                                    "line-height": "3.6rem",
-                                  },
-                                },
-                                "Training Milestones"
-                              ),
-                              I(
-                                "div",
-                                {
-                                  style: {
-                                    "margin-top": "1rem",
-                                    display: "flex",
-                                    "align-items": "center",
-                                    "justify-content": "space-between",
-                                  },
-                                },
-                                [
-                                  I(
-                                    "div",
-                                    {
-                                      style: {
-                                        width: "28.4rem",
-                                        height: "26.4rem",
-                                      },
-                                    },
-                                    [
-                                      I(
-                                        "div",
-                                        {
-                                          style: {
-                                            height: "21rem",
-                                            width: "100%",
-                                            background: "#000",
-                                            "border-radius": "0.8rem",
-                                          },
-                                        },
-                                        [
-                                          I("iframe", {
-                                            width: "100%",
-                                            height: "100%",
-                                            src: "https://www.youtube.com/embed/WwK8ByIxDJw?si=Xm7D98GvGQ21MIWf",
-                                            title: "YouTube video player",
-                                            frameborder: "0",
-                                            allow:
-                                              "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
-                                            referrerpolicy:
-                                              "strict-origin-when-cross-origin",
-                                            allowfullscreen: "",
-                                          }),
-                                        ]
-                                      ),
-                                      I(
-                                        "div",
-                                        {
-                                          style: {
-                                            "font-size": "1.6rem",
-                                            color: "#fff",
-                                            "line-height": "2rem",
-                                            "margin-top": "1.2rem",
-                                          },
-                                        },
-                                        "12/06/2024"
-                                      ),
-                                      I(
-                                        "div",
-                                        {
-                                          style: {
-                                            "font-size": "1.4rem",
-                                            color: "#FFE8DE",
-                                            "font-family": "Roboto",
-                                            "line-height": "1.6rem",
-                                            "margin-top": "0.8rem",
-                                          },
-                                        },
-                                        "Phase 1 Initiated"
-                                      ),
-                                    ]
-                                  ),
-                                  I(
-                                    "div",
-                                    {
-                                      style: {
-                                        width: "28.4rem",
-                                        height: "26.4rem",
-                                      },
-                                    },
-                                    [
-                                      I(
-                                        "div",
-                                        {
-                                          style: {
-                                            height: "21rem",
-                                            width: "100%",
-                                            background: "#000",
-                                            "border-radius": "0.8rem",
-                                          },
-                                        },
-                                        [
-                                          I("iframe", {
-                                            width: "100%",
-                                            height: "100%",
-                                            src: "https://www.youtube.com/embed/RFhVurPa2qg?si=JP_yDAhG1Euu1vbr",
-                                            title: "YouTube video player",
-                                            frameborder: "0",
-                                            allow:
-                                              "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
-                                            referrerpolicy:
-                                              "strict-origin-when-cross-origin",
-                                            allowfullscreen: "",
-                                          }),
-                                        ]
-                                      ),
-                                      I(
-                                        "div",
-                                        {
-                                          style: {
-                                            "font-size": "1.6rem",
-                                            color: "#fff",
-                                            "line-height": "2rem",
-                                            "margin-top": "1.2rem",
-                                          },
-                                        },
-                                        "12/11/2024"
-                                      ),
-                                      I(
-                                        "div",
-                                        {
-                                          style: {
-                                            "font-size": "1.4rem",
-                                            color: "#FFE8DE",
-                                            "font-family": "Roboto",
-                                            "line-height": "1.6rem",
-                                            "margin-top": "0.8rem",
-                                          },
-                                        },
-                                        "Phase 1 Results In"
-                                      ),
-                                    ]
-                                  ),
-                                ]
-                              ),
-                            ]
-                          ),
-                        ]
-                      ),
-                    ],
-                    -1
-                  )),
-              ]),
+              // I("div", cQ, [
+              //   I("div", dQ, [
+              //     I("div", fQ, [
+              //       I("div", pQ, [
+              //         I("div", hQ, [
+              //           t[13] ||
+              //             (t[13] = I(
+              //               "div",
+              //               {
+              //                 class: "font-liner2",
+              //                 style: {
+              //                   "font-size": "1.8rem",
+              //                   "line-height": "2.2rem",
+              //                 },
+              //               },
+              //               "Price",
+              //               -1
+              //             )),
+              //           I(
+              //             "div",
+              //             {
+              //               onClick:
+              //                 t[7] ||
+              //                 (t[7] = (...a) =>
+              //                   l.openTrade && l.openTrade(...a)),
+              //               style: {
+              //                 "font-size": "1.6rem",
+              //                 color: "#461E00",
+              //                 "border-radius": "6px",
+              //                 background:
+              //                   "var(--Linear, linear-gradient(318deg, #B06D42 28.77%, #FFC2AA 93.47%))",
+              //                 "box-shadow":
+              //                   "1px 1px 4px 0px #FFF inset, 0px 0px 13px 0px #DEAB7B",
+              //                 width: "12.6rem",
+              //                 height: "3.6rem",
+              //                 "line-height": "3.6rem",
+              //                 "text-align": "center",
+              //                 cursor: "pointer",
+              //               },
+              //             },
+              //             "Buy $R3D"
+              //           ),
+              //         ]),
+              //         t[14] || (t[14] = I()),
+              //         // "div",
+              //         // {
+              //         //   style: {
+              //         //     "margin-top": "1rem",
+              //         //     height: "26.7rem",
+              //         //     width: "100%",
+              //         //     background: "#000",
+              //         //     "border-radius": "0.8rem",
+              //         //   },
+              //         // },
+              //         // [
+              //         //   I("iframe", {
+              //         //     height: "100%",
+              //         //     width: "100%",
+              //         //     id: "geckoterminal-embed",
+              //         //     title: "GeckoTerminal Embed",
+              //         //     src: "https://www.geckoterminal.com/solana/pools/6XYSM6RnghKTqGJhy66tR1TF3fJZK3hG3ryJgYbTZV5j?embed=1&info=0&swaps=0&grayscale=0&light_chart=0",
+              //         //     frameborder: "0",
+              //         //     allow: "clipboard-write",
+              //         //     allowfullscreen: "",
+              //         //   }),
+              //         // ],
+              //         // -1
+              //       ]),
+              //     ]),
+              //   ]),
+              //   t[15] ||
+              //     (t[15] = I(
+              //       "div",
+              //       {
+              //         style: {
+              //           width: "63.8rem",
+              //           height: "100%",
+              //           "border-radius": "0.8rem",
+              //           border: "0.0859rem solid rgba(5,3,2,0.5)",
+              //           padding: "0.5rem",
+              //         },
+              //       },
+              //       [
+              //         I(
+              //           "div",
+              //           {
+              //             class: "bgimage100",
+              //             style: {
+              //               width: "100%",
+              //               height: "100%",
+              //               "background-image": "url('/img/border3.png')",
+              //               padding: "0.2rem",
+              //             },
+              //           },
+              //           [
+              //             I(
+              //               "div",
+              //               {
+              //                 style: {
+              //                   width: "100%",
+              //                   height: "100%",
+              //                   "border-radius": "0.8rem",
+              //                   background:
+              //                     "linear-gradient(98deg, rgba(126, 74, 57, 0.50) 0.56%, rgba(41, 14, 10, 0.50) 96.3%)",
+              //                   "backdrop-filter": "blur(0.75rem)",
+              //                   padding: "1.5rem",
+              //                 },
+              //               },
+              //               [
+              //                 I(
+              //                   "div",
+              //                   {
+              //                     class: "font-liner2",
+              //                     style: {
+              //                       "font-size": "1.8rem",
+              //                       "line-height": "3.6rem",
+              //                     },
+              //                   },
+              //                   "Training Milestones"
+              //                 ),
+              //                 I(
+              //                   "div",
+              //                   {
+              //                     style: {
+              //                       "margin-top": "1rem",
+              //                       display: "flex",
+              //                       "align-items": "center",
+              //                       "justify-content": "space-between",
+              //                     },
+              //                   },
+              //                   [
+              //                     I(
+              //                       "div",
+              //                       {
+              //                         style: {
+              //                           width: "28.4rem",
+              //                           height: "26.4rem",
+              //                         },
+              //                       },
+              //                       [
+              //                         I(
+              //                           "div",
+              //                           {
+              //                             style: {
+              //                               height: "21rem",
+              //                               width: "100%",
+              //                               background: "#000",
+              //                               "border-radius": "0.8rem",
+              //                             },
+              //                           },
+              //                           [
+              //                             I("iframe", {
+              //                               width: "100%",
+              //                               height: "100%",
+              //                               src: "https://www.youtube.com/embed/WwK8ByIxDJw?si=Xm7D98GvGQ21MIWf",
+              //                               title: "YouTube video player",
+              //                               frameborder: "0",
+              //                               allow:
+              //                                 "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+              //                               referrerpolicy:
+              //                                 "strict-origin-when-cross-origin",
+              //                               allowfullscreen: "",
+              //                             }),
+              //                           ]
+              //                         ),
+              //                         I(
+              //                           "div",
+              //                           {
+              //                             style: {
+              //                               "font-size": "1.6rem",
+              //                               color: "#fff",
+              //                               "line-height": "2rem",
+              //                               "margin-top": "1.2rem",
+              //                             },
+              //                           },
+              //                           "12/06/2024"
+              //                         ),
+              //                         I(
+              //                           "div",
+              //                           {
+              //                             style: {
+              //                               "font-size": "1.4rem",
+              //                               color: "#FFE8DE",
+              //                               "font-family": "Roboto",
+              //                               "line-height": "1.6rem",
+              //                               "margin-top": "0.8rem",
+              //                             },
+              //                           },
+              //                           "Phase 1 Initiated"
+              //                         ),
+              //                       ]
+              //                     ),
+              //                     I(
+              //                       "div",
+              //                       {
+              //                         style: {
+              //                           width: "28.4rem",
+              //                           height: "26.4rem",
+              //                         },
+              //                       },
+              //                       [
+              //                         I(
+              //                           "div",
+              //                           {
+              //                             style: {
+              //                               height: "21rem",
+              //                               width: "100%",
+              //                               background: "#000",
+              //                               "border-radius": "0.8rem",
+              //                             },
+              //                           },
+              //                           [
+              //                             I("iframe", {
+              //                               width: "100%",
+              //                               height: "100%",
+              //                               src: "https://www.youtube.com/embed/RFhVurPa2qg?si=JP_yDAhG1Euu1vbr",
+              //                               title: "YouTube video player",
+              //                               frameborder: "0",
+              //                               allow:
+              //                                 "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+              //                               referrerpolicy:
+              //                                 "strict-origin-when-cross-origin",
+              //                               allowfullscreen: "",
+              //                             }),
+              //                           ]
+              //                         ),
+              //                         I(
+              //                           "div",
+              //                           {
+              //                             style: {
+              //                               "font-size": "1.6rem",
+              //                               color: "#fff",
+              //                               "line-height": "2rem",
+              //                               "margin-top": "1.2rem",
+              //                             },
+              //                           },
+              //                           "12/11/2024"
+              //                         ),
+              //                         I(
+              //                           "div",
+              //                           {
+              //                             style: {
+              //                               "font-size": "1.4rem",
+              //                               color: "#FFE8DE",
+              //                               "font-family": "Roboto",
+              //                               "line-height": "1.6rem",
+              //                               "margin-top": "0.8rem",
+              //                             },
+              //                           },
+              //                           "Phase 1 Results In"
+              //                         ),
+              //                       ]
+              //                     ),
+              //                   ]
+              //                 ),
+              //               ]
+              //             ),
+              //           ]
+              //         ),
+              //       ],
+              //       -1
+              //     )),
+              // ]),
             ])),
         r.mobile
           ? (E(),
@@ -68566,69 +68566,69 @@ var tee = Lk((ho, mo) => {
                   '<div style="width:100%;border-radius:2.29rem;border:0.2rem solid rgba(5,3,2,0.5);padding:1.1rem;margin-top:4.57rem;"><div style="width:100%;height:100%;border-radius:2.286rem;border:0.1rem solid #FFF;background:rgba(0,0,0,0.3);padding:4rem;backdrop-filter:blur(1rem);"><div style="display:flex;justify-content:space-between;align-items:center;height:12rem;"><div style="display:flex;align-items:center;"><div class="bgimage100" style="width:5.71rem;height:5.71rem;background-image:url(&#39;/img/icon_a.png&#39;);"></div><div class="font-liner2" style="font-size:4rem;margin-left:1.7rem;">Type</div></div><div style="color:#ffe8de;font-size:3.43rem;font-family:Roboto;width:48rem;line-height:4rem;">Mars Rover</div></div><div style="display:flex;justify-content:space-between;align-items:center;height:12rem;"><div style="display:flex;align-items:center;"><div class="bgimage100" style="width:5.71rem;height:5.71rem;background-image:url(&#39;/img/icon_b.png&#39;);"></div><div class="font-liner2" style="font-size:4rem;margin-left:1.7rem;">Technology</div></div><div style="color:#ffe8de;font-size:3.43rem;font-family:Roboto;width:48rem;line-height:4rem;">RoboGym &amp; SOBO Lab</div></div><div style="display:flex;justify-content:space-between;align-items:center;height:12rem;"><div style="display:flex;align-items:center;"><div class="bgimage100" style="width:5.71rem;height:5.71rem;background-image:url(&#39;/img/icon_c.png&#39;);"></div><div class="font-liner2" style="font-size:4rem;margin-left:1.7rem;">Terrain</div></div><div style="color:#ffe8de;font-size:3.43rem;font-family:Roboto;width:48rem;line-height:4rem;">Simulated Martian Surface</div></div><div style="display:flex;justify-content:space-between;align-items:center;height:12rem;"><div style="display:flex;align-items:center;"><div class="bgimage100" style="width:5.71rem;height:5.71rem;background-image:url(&#39;/img/icon_d.png&#39;);"></div><div class="font-liner2" style="font-size:4rem;margin-left:1.7rem;">Objectives</div></div><div style="color:#ffe8de;font-size:3.43rem;font-family:Roboto;width:48rem;line-height:4rem;">Terrain Adaptation, Autonomous Navigation, Multi-Task Coordinatio</div></div></div></div>',
                   1
                 )),
-              I("div", gQ, [
-                I("div", bQ, [
-                  I("div", yQ, [
-                    t[18] ||
-                      (t[18] = I(
-                        "div",
-                        {
-                          class: "font-liner2",
-                          style: { "font-size": "5.1428rem" },
-                        },
-                        "Price",
-                        -1
-                      )),
-                    I(
-                      "div",
-                      {
-                        onClick:
-                          t[9] ||
-                          (t[9] = (...a) => l.openTrade && l.openTrade(...a)),
-                        style: {
-                          "font-size": "4rem",
-                          color: "#461E00",
-                          "border-radius": "1.428rem",
-                          background:
-                            "var(--Linear, linear-gradient(318deg, #B06D42 28.77%, #FFC2AA 93.47%))",
-                          "box-shadow":
-                            "1px 1px 4px 0px #FFF inset, 0px 0px 13px 0px #DEAB7B",
-                          width: "29.42rem",
-                          height: "8.571rem",
-                          "line-height": "8.571rem",
-                          "text-align": "center",
-                          cursor: "pointer",
-                        },
-                      },
-                      "Buy $R3D"
-                    ),
-                  ]),
-                  t[19] || (t[19] = I()),
-                  // "div",
-                  // {
-                  //   style: {
-                  //     "margin-top": "1.7rem",
-                  //     height: "51.42rem",
-                  //     width: "100%",
-                  //     background: "#000",
-                  //     "border-radius": "2rem",
-                  //   },
-                  // },
-                  // [
-                  //   I("iframe", {
-                  //     height: "100%",
-                  //     width: "100%",
-                  //     id: "geckoterminal-embed",
-                  //     title: "GeckoTerminal Embed",
-                  //     src: "https://www.geckoterminal.com/solana/pools/6XYSM6RnghKTqGJhy66tR1TF3fJZK3hG3ryJgYbTZV5j?embed=1&info=0&swaps=0&grayscale=0&light_chart=0",
-                  //     frameborder: "0",
-                  //     allow: "clipboard-write",
-                  //     allowfullscreen: "",
-                  //   }),
-                  // ],
-                  // -1
-                ]),
-              ]),
+              // I("div", gQ, [
+              //   I("div", bQ, [
+              //     I("div", yQ, [
+              //       t[18] ||
+              //         (t[18] = I(
+              //           "div",
+              //           {
+              //             class: "font-liner2",
+              //             style: { "font-size": "5.1428rem" },
+              //           },
+              //           "Price",
+              //           -1
+              //         )),
+              //       I(
+              //         "div",
+              //         {
+              //           onClick:
+              //             t[9] ||
+              //             (t[9] = (...a) => l.openTrade && l.openTrade(...a)),
+              //           style: {
+              //             "font-size": "4rem",
+              //             color: "#461E00",
+              //             "border-radius": "1.428rem",
+              //             background:
+              //               "var(--Linear, linear-gradient(318deg, #B06D42 28.77%, #FFC2AA 93.47%))",
+              //             "box-shadow":
+              //               "1px 1px 4px 0px #FFF inset, 0px 0px 13px 0px #DEAB7B",
+              //             width: "29.42rem",
+              //             height: "8.571rem",
+              //             "line-height": "8.571rem",
+              //             "text-align": "center",
+              //             cursor: "pointer",
+              //           },
+              //         },
+              //         "Buy $R3D"
+              //       ),
+              //     ]),
+              //     t[19] || (t[19] = I()),
+              //     // "div",
+              //     // {
+              //     //   style: {
+              //     //     "margin-top": "1.7rem",
+              //     //     height: "51.42rem",
+              //     //     width: "100%",
+              //     //     background: "#000",
+              //     //     "border-radius": "2rem",
+              //     //   },
+              //     // },
+              //     // [
+              //     //   I("iframe", {
+              //     //     height: "100%",
+              //     //     width: "100%",
+              //     //     id: "geckoterminal-embed",
+              //     //     title: "GeckoTerminal Embed",
+              //     //     src: "https://www.geckoterminal.com/solana/pools/6XYSM6RnghKTqGJhy66tR1TF3fJZK3hG3ryJgYbTZV5j?embed=1&info=0&swaps=0&grayscale=0&light_chart=0",
+              //     //     frameborder: "0",
+              //     //     allow: "clipboard-write",
+              //     //     allowfullscreen: "",
+              //     //   }),
+              //     // ],
+              //     // -1
+              //   ]),
+              // ]),
               t[23] ||
                 (t[23] = I(
                   "div",
@@ -69130,7 +69130,7 @@ var tee = Lk((ho, mo) => {
                       style: {
                         width: "3.3rem",
                         height: "3.3rem",
-                        "background-image": "url('/img/logo.png')",
+                        "background-image": "url('/img/favicon.png')",
                       },
                     }),
                     I(
@@ -69753,164 +69753,164 @@ var tee = Lk((ho, mo) => {
                   ],
                   -1
                 )),
-              I("div", IQ, [
-                I("div", RQ, [
-                  I("div", PQ, [
-                    I("div", AQ, [
-                      I("div", LQ, [
-                        t[13] ||
-                          (t[13] = I(
-                            "div",
-                            {
-                              class: "font-liner2",
-                              style: {
-                                "font-size": "1.8rem",
-                                "line-height": "2.2rem",
-                              },
-                            },
-                            "Price",
-                            -1
-                          )),
-                        I(
-                          "div",
-                          {
-                            onClick:
-                              t[7] ||
-                              (t[7] = (...a) =>
-                                l.openTrade && l.openTrade(...a)),
-                            style: {
-                              "font-size": "1.6rem",
-                              color: "#461E00",
-                              "border-radius": "6px",
-                              background:
-                                "var(--Linear, linear-gradient(318deg, #B06D42 28.77%, #FFC2AA 93.47%))",
-                              "box-shadow":
-                                "1px 1px 4px 0px #FFF inset, 0px 0px 13px 0px #DEAB7B",
-                              width: "12.6rem",
-                              height: "3.6rem",
-                              "line-height": "3.6rem",
-                              "text-align": "center",
-                              cursor: "pointer",
-                            },
-                          },
-                          "Buy $R3D"
-                        ),
-                      ]),
-                      t[14] ||
-                        (t[14] =
-                          I()),
-                          // "div",
-                          // {
-                          //   style: {
-                          //     "margin-top": "1rem",
-                          //     height: "26.7rem",
-                          //     width: "100%",
-                          //     background: "#000",
-                          //     "border-radius": "0.8rem",
-                          //   },
-                          // },
-                          // [
-                          //   I("iframe", {
-                          //     height: "100%",
-                          //     width: "100%",
-                          //     id: "geckoterminal-embed",
-                          //     title: "GeckoTerminal Embed",
-                          //     src: "https://www.geckoterminal.com/solana/pools/6XYSM6RnghKTqGJhy66tR1TF3fJZK3hG3ryJgYbTZV5j?embed=1&info=0&swaps=0&grayscale=0&light_chart=0",
-                          //     frameborder: "0",
-                          //     allow: "clipboard-write",
-                          //     allowfullscreen: "",
-                          //   }),
-                          // ],
-                          // -1
-                    ]),
-                  ]),
-                ]),
-                I("div", DQ, [
-                  I("div", FQ, [
-                    I("div", BQ, [
-                      t[19] ||
-                        (t[19] = I(
-                          "div",
-                          {
-                            class: "font-liner2",
-                            style: {
-                              "font-size": "1.8rem",
-                              "line-height": "3.6rem",
-                            },
-                          },
-                          "Training Milestones",
-                          -1
-                        )),
-                      I("div", VQ, [
-                        I("div", zQ, [
-                          I("div", HQ, [(E(), z("iframe", KQ))]),
-                          t[15] ||
-                            (t[15] = I(
-                              "div",
-                              {
-                                style: {
-                                  "font-size": "1.6rem",
-                                  color: "#fff",
-                                  "line-height": "2rem",
-                                  "margin-top": "1.2rem",
-                                },
-                              },
-                              "12/06/2024",
-                              -1
-                            )),
-                          t[16] ||
-                            (t[16] = I(
-                              "div",
-                              {
-                                style: {
-                                  "font-size": "1.4rem",
-                                  color: "#FFE8DE",
-                                  "font-family": "Roboto",
-                                  "line-height": "1.6rem",
-                                  "margin-top": "0.8rem",
-                                },
-                              },
-                              "Phase 1 Initiated",
-                              -1
-                            )),
-                        ]),
-                        I("div", jQ, [
-                          I("div", WQ, [(E(), z("iframe", UQ))]),
-                          t[17] ||
-                            (t[17] = I(
-                              "div",
-                              {
-                                style: {
-                                  "font-size": "1.6rem",
-                                  color: "#fff",
-                                  "line-height": "2rem",
-                                  "margin-top": "1.2rem",
-                                },
-                              },
-                              "01/10/2025",
-                              -1
-                            )),
-                          t[18] ||
-                            (t[18] = I(
-                              "div",
-                              {
-                                style: {
-                                  "font-size": "1.4rem",
-                                  color: "#FFE8DE",
-                                  "font-family": "Roboto",
-                                  "line-height": "1.6rem",
-                                  "margin-top": "0.8rem",
-                                },
-                              },
-                              "Phase 1 Results In",
-                              -1
-                            )),
-                        ]),
-                      ]),
-                    ]),
-                  ]),
-                ]),
-              ]),
+              // I("div", IQ, [
+              //   I("div", RQ, [
+              //     I("div", PQ, [
+              //       I("div", AQ, [
+              //         I("div", LQ, [
+              //           t[13] ||
+              //             (t[13] = I(
+              //               "div",
+              //               {
+              //                 class: "font-liner2",
+              //                 style: {
+              //                   "font-size": "1.8rem",
+              //                   "line-height": "2.2rem",
+              //                 },
+              //               },
+              //               "Price",
+              //               -1
+              //             )),
+              //           I(
+              //             "div",
+              //             {
+              //               onClick:
+              //                 t[7] ||
+              //                 (t[7] = (...a) =>
+              //                   l.openTrade && l.openTrade(...a)),
+              //               style: {
+              //                 "font-size": "1.6rem",
+              //                 color: "#461E00",
+              //                 "border-radius": "6px",
+              //                 background:
+              //                   "var(--Linear, linear-gradient(318deg, #B06D42 28.77%, #FFC2AA 93.47%))",
+              //                 "box-shadow":
+              //                   "1px 1px 4px 0px #FFF inset, 0px 0px 13px 0px #DEAB7B",
+              //                 width: "12.6rem",
+              //                 height: "3.6rem",
+              //                 "line-height": "3.6rem",
+              //                 "text-align": "center",
+              //                 cursor: "pointer",
+              //               },
+              //             },
+              //             "Buy $R3D"
+              //           ),
+              //         ]),
+              //         t[14] ||
+              //           (t[14] =
+              //             I()),
+              //             // "div",
+              //             // {
+              //             //   style: {
+              //             //     "margin-top": "1rem",
+              //             //     height: "26.7rem",
+              //             //     width: "100%",
+              //             //     background: "#000",
+              //             //     "border-radius": "0.8rem",
+              //             //   },
+              //             // },
+              //             // [
+              //             //   I("iframe", {
+              //             //     height: "100%",
+              //             //     width: "100%",
+              //             //     id: "geckoterminal-embed",
+              //             //     title: "GeckoTerminal Embed",
+              //             //     src: "https://www.geckoterminal.com/solana/pools/6XYSM6RnghKTqGJhy66tR1TF3fJZK3hG3ryJgYbTZV5j?embed=1&info=0&swaps=0&grayscale=0&light_chart=0",
+              //             //     frameborder: "0",
+              //             //     allow: "clipboard-write",
+              //             //     allowfullscreen: "",
+              //             //   }),
+              //             // ],
+              //             // -1
+              //       ]),
+              //     ]),
+              //   ]),
+              //   I("div", DQ, [
+              //     I("div", FQ, [
+              //       I("div", BQ, [
+              //         t[19] ||
+              //           (t[19] = I(
+              //             "div",
+              //             {
+              //               class: "font-liner2",
+              //               style: {
+              //                 "font-size": "1.8rem",
+              //                 "line-height": "3.6rem",
+              //               },
+              //             },
+              //             "Training Milestones",
+              //             -1
+              //           )),
+              //         I("div", VQ, [
+              //           I("div", zQ, [
+              //             I("div", HQ, [(E(), z("iframe", KQ))]),
+              //             t[15] ||
+              //               (t[15] = I(
+              //                 "div",
+              //                 {
+              //                   style: {
+              //                     "font-size": "1.6rem",
+              //                     color: "#fff",
+              //                     "line-height": "2rem",
+              //                     "margin-top": "1.2rem",
+              //                   },
+              //                 },
+              //                 "12/06/2024",
+              //                 -1
+              //               )),
+              //             t[16] ||
+              //               (t[16] = I(
+              //                 "div",
+              //                 {
+              //                   style: {
+              //                     "font-size": "1.4rem",
+              //                     color: "#FFE8DE",
+              //                     "font-family": "Roboto",
+              //                     "line-height": "1.6rem",
+              //                     "margin-top": "0.8rem",
+              //                   },
+              //                 },
+              //                 "Phase 1 Initiated",
+              //                 -1
+              //               )),
+              //           ]),
+              //           I("div", jQ, [
+              //             I("div", WQ, [(E(), z("iframe", UQ))]),
+              //             t[17] ||
+              //               (t[17] = I(
+              //                 "div",
+              //                 {
+              //                   style: {
+              //                     "font-size": "1.6rem",
+              //                     color: "#fff",
+              //                     "line-height": "2rem",
+              //                     "margin-top": "1.2rem",
+              //                   },
+              //                 },
+              //                 "01/10/2025",
+              //                 -1
+              //               )),
+              //             t[18] ||
+              //               (t[18] = I(
+              //                 "div",
+              //                 {
+              //                   style: {
+              //                     "font-size": "1.4rem",
+              //                     color: "#FFE8DE",
+              //                     "font-family": "Roboto",
+              //                     "line-height": "1.6rem",
+              //                     "margin-top": "0.8rem",
+              //                   },
+              //                 },
+              //                 "Phase 1 Results In",
+              //                 -1
+              //               )),
+              //           ]),
+              //         ]),
+              //       ]),
+              //     ]),
+              //   ]),
+              // ]),
             ])),
         r.mobile
           ? (E(),
@@ -70019,71 +70019,71 @@ var tee = Lk((ho, mo) => {
                   '<div style="width:100%;border-radius:2.29rem;border:0.2rem solid rgba(5,3,2,0.5);padding:1.1rem;margin-top:4.57rem;"><div style="width:100%;height:100%;border-radius:2.286rem;border:0.1rem solid #FFF;background:rgba(0,0,0,0.3);padding:4rem;backdrop-filter:blur(1rem);"><div style="display:flex;justify-content:space-between;align-items:center;height:12rem;"><div style="display:flex;align-items:center;"><div class="bgimage100" style="width:5.71rem;height:5.71rem;background-image:url(&#39;/img/icon_a.png&#39;);"></div><div class="font-liner2" style="font-size:4rem;margin-left:1.7rem;">Type</div></div><div style="color:#ffe8de;font-size:3.43rem;font-family:Roboto;width:48rem;line-height:4rem;">UNITREE H1</div></div><div style="display:flex;justify-content:space-between;align-items:center;height:12rem;"><div style="display:flex;align-items:center;"><div class="bgimage100" style="width:5.71rem;height:5.71rem;background-image:url(&#39;/img/icon_b.png&#39;);"></div><div class="font-liner2" style="font-size:4rem;margin-left:1.7rem;">Technology</div></div><div style="color:#ffe8de;font-size:3.43rem;font-family:Roboto;width:48rem;line-height:4rem;">RoboGym &amp; SOBO Lab</div></div><div style="display:flex;justify-content:space-between;align-items:center;height:12rem;"><div style="display:flex;align-items:center;"><div class="bgimage100" style="width:5.71rem;height:5.71rem;background-image:url(&#39;/img/icon_c.png&#39;);"></div><div class="font-liner2" style="font-size:4rem;margin-left:1.7rem;">Terrain</div></div><div style="color:#ffe8de;font-size:3.43rem;font-family:Roboto;width:48rem;line-height:4rem;">Simulated Rugged Surface (Steps, Uneven Terrain)</div></div><div style="display:flex;justify-content:space-between;align-items:center;height:12rem;"><div style="display:flex;align-items:center;"><div class="bgimage100" style="width:5.71rem;height:5.71rem;background-image:url(&#39;/img/icon_d.png&#39;);"></div><div class="font-liner2" style="font-size:4rem;margin-left:1.7rem;">Objectives</div></div><div style="color:#ffe8de;font-size:3.43rem;font-family:Roboto;width:48rem;line-height:4rem;">Terrain Adaptation, Dynamic Balancing, Multi-Terrain Locomotion</div></div></div></div>',
                   1
                 )),
-              I("div", GQ, [
-                I("div", XQ, [
-                  I("div", ZQ, [
-                    t[22] ||
-                      (t[22] = I(
-                        "div",
-                        {
-                          class: "font-liner2",
-                          style: { "font-size": "5.1428rem" },
-                        },
-                        "Price",
-                        -1
-                      )),
-                    I(
-                      "div",
-                      {
-                        onClick:
-                          t[9] ||
-                          (t[9] = (...a) => l.openTrade && l.openTrade(...a)),
-                        style: {
-                          "font-size": "4rem",
-                          color: "#461E00",
-                          "border-radius": "1.428rem",
-                          background:
-                            "var(--Linear, linear-gradient(318deg, #B06D42 28.77%, #FFC2AA 93.47%))",
-                          "box-shadow":
-                            "1px 1px 4px 0px #FFF inset, 0px 0px 13px 0px #DEAB7B",
-                          width: "29.42rem",
-                          height: "8.571rem",
-                          "line-height": "8.571rem",
-                          "text-align": "center",
-                          cursor: "pointer",
-                        },
-                      },
-                      "Buy $R3D"
-                    ),
-                  ]),
-                  t[23] ||
-                    (t[23] =
-                      I()),
-                      // "div",
-                      // {
-                      //   style: {
-                      //     "margin-top": "1.7rem",
-                      //     height: "51.42rem",
-                      //     width: "100%",
-                      //     background: "#000",
-                      //     "border-radius": "2rem",
-                      //   },
-                      // },
-                      // [
-                      //   I("iframe", {
-                      //     height: "100%",
-                      //     width: "100%",
-                      //     id: "geckoterminal-embed",
-                      //     title: "GeckoTerminal Embed",
-                      //     src: "https://www.geckoterminal.com/solana/pools/6XYSM6RnghKTqGJhy66tR1TF3fJZK3hG3ryJgYbTZV5j?embed=1&info=0&swaps=0&grayscale=0&light_chart=0",
-                      //     frameborder: "0",
-                      //     allow: "clipboard-write",
-                      //     allowfullscreen: "",
-                      //   }),
-                      // ],
-                      // -1
-                ]),
-              ]),
+              // I("div", GQ, [
+              //   I("div", XQ, [
+              //     I("div", ZQ, [
+              //       t[22] ||
+              //         (t[22] = I(
+              //           "div",
+              //           {
+              //             class: "font-liner2",
+              //             style: { "font-size": "5.1428rem" },
+              //           },
+              //           "Price",
+              //           -1
+              //         )),
+              //       I(
+              //         "div",
+              //         {
+              //           onClick:
+              //             t[9] ||
+              //             (t[9] = (...a) => l.openTrade && l.openTrade(...a)),
+              //           style: {
+              //             "font-size": "4rem",
+              //             color: "#461E00",
+              //             "border-radius": "1.428rem",
+              //             background:
+              //               "var(--Linear, linear-gradient(318deg, #B06D42 28.77%, #FFC2AA 93.47%))",
+              //             "box-shadow":
+              //               "1px 1px 4px 0px #FFF inset, 0px 0px 13px 0px #DEAB7B",
+              //             width: "29.42rem",
+              //             height: "8.571rem",
+              //             "line-height": "8.571rem",
+              //             "text-align": "center",
+              //             cursor: "pointer",
+              //           },
+              //         },
+              //         "Buy $R3D"
+              //       ),
+              //     ]),
+              //     t[23] ||
+              //       (t[23] =
+              //         I()),
+              //         // "div",
+              //         // {
+              //         //   style: {
+              //         //     "margin-top": "1.7rem",
+              //         //     height: "51.42rem",
+              //         //     width: "100%",
+              //         //     background: "#000",
+              //         //     "border-radius": "2rem",
+              //         //   },
+              //         // },
+              //         // [
+              //         //   I("iframe", {
+              //         //     height: "100%",
+              //         //     width: "100%",
+              //         //     id: "geckoterminal-embed",
+              //         //     title: "GeckoTerminal Embed",
+              //         //     src: "https://www.geckoterminal.com/solana/pools/6XYSM6RnghKTqGJhy66tR1TF3fJZK3hG3ryJgYbTZV5j?embed=1&info=0&swaps=0&grayscale=0&light_chart=0",
+              //         //     frameborder: "0",
+              //         //     allow: "clipboard-write",
+              //         //     allowfullscreen: "",
+              //         //   }),
+              //         // ],
+              //         // -1
+              //   ]),
+              // ]),
               t[27] ||
                 (t[27] = I(
                   "div",
